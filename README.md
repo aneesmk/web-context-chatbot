@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/your-username/your-repository">
+  <a href="https://github.com/aneesmk/web-context-chatbot">
     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fchatbot_13574333&psig=AOvVaw20-f-g-g-g-g-g-g-g-g-g-g&ust=1678886400000000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJj-g-g-g-g-g-g-g-g-g-g" alt="Logo" width="80" height="80">
   </a>
 
@@ -8,12 +8,12 @@
   <p align="center">
     A Streamlit web application that scrapes website content to create a contextual chatbot.
     <br />
-    <a href="https://github.com/your-username/your-repository"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/aneesmk/web-context-chatbot"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/your-username/your-repository/issues">Report Bug</a>
+    <a href="https://github.com/aneesmk/web-context-chatbot/issues">Report Bug</a>
     ·
-    <a href="https://github.com/your-username/your-repository/issues">Request Feature</a>
+    <a href="https://github.com/aneesmk/web-context-chatbot/issues">Request Feature</a>
   </p>
 </div>
 
@@ -57,7 +57,7 @@ To get a local copy up and running follow these simple steps.
 
 1.  Clone the repo
     ```sh
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/aneesmk/web-context-chatbot.git
     ```
 2.  Install PIP packages
     ```sh
